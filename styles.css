@@ -1,1 +1,54 @@
+body{
+    background-color: black;
+    color: white;
+}
+.container{
+    width: 100%;
+    overflow: hidden;
+}
+.box{
+    float: left;
+    width: 33.33%;
+    min-height: 150px;
+    padding: 15px;
+    color: white;
+    box-sizing: border-box;
+}
+.LeftAlign{
+    background-color: gold;
+    border: 3px solid gray;
 
+}
+    
+.CenterAlign{
+    background-color: red;
+    border: 3px solid blue;
+
+}
+.RightAlign{
+    background-color: purple;
+    border: 3px solid greenyellow;
+}
+
+.button1{
+    border-color:black;
+    border: 3px solid white;
+    border-width: auto;
+}
+
+.button2{
+    border: 3px solid;
+    border-color: black;
+    display: flex;
+    align-content: start;   
+}
+.button3{
+    border: 3px solid;
+    border-color: black;
+    display: flex;
+    align-content: start;
+}
+h1{
+    text-align: center;
+    margin: 0 auto;
+}
