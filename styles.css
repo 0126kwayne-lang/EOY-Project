@@ -44,7 +44,7 @@ body{
 }
 .button3{
     border: 3px solid;
-    border-color: black;
+    border-color: gold;
     display: flex;
     align-content: start;
 }
