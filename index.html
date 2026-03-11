@@ -51,5 +51,33 @@ Greater Cleveland Aquarium
 
 </div>
   </div>
+  <div>
+      <!-- sidebar -->
+ <div id="sidebar" class="sidebar">
+     <div class="toggle-btn" onclick="toggleSidebar()">
+        ☰      
+     </div>
+
+     <ul class="nav-links">
+        <li><a href="">home</a></li>
+        <li><a href="">about</a></li>
+        <li><a href="">project info</a></li>
+     </ul>
+    </div>
+    <!--Main Control-->
+    <div class="main-content">
+        <h1> UCG Mart</h1>
+        <p>Where shopping meets coding</p>
+
+    </div>
+    <script>
+        function toggleSidebar() {
+            document.getElementById("sidebar").classList.toggle("active");
+        }
+    </script>
+
+
+
+  </div>
 </body>
 </html>
