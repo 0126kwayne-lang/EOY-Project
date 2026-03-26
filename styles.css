@@ -125,7 +125,13 @@ toggle-btn{
 
 
 
-
+:root{
+    --bg: #ffffff;
+    --text: #000000;
+    --nav-bg: #333333;
+    --nav-text: #ffffff;
+    --card: #f4f4f4;
+}
 
 body.dark {
     --bg:#121212;
