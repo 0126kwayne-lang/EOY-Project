@@ -1,3 +1,7 @@
+function toggleSidebar() {
+    document.getElementById("sidebar").classList.toggle("active");
+}
+
 const themeSwitch = document.getElementById("theme-switch");
 const body = document.body;
 
