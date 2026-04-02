@@ -134,7 +134,7 @@ align-items: center;
 }
 /* when checked */
 #theme-switch:checked + .toggle-label .toggle-ball{
-    transform: translateX(25px);
+    transform: translateX(12px);
 }
   /*Customizing my items*/
   .container{
@@ -164,7 +164,11 @@ align-items: center;
     background-color: purple;
     border: 3px solid greenyellow;
 }
-
+.pg1buttons{
+    border-color: green; 
+    padding-left: 30px; 
+    width: 100vw; 
+}
 .button1{
     border-color:black;
     border: 3px solid white;
@@ -181,5 +185,5 @@ align-items: center;
     border: 3px solid;
     border-color: gold;
     display: flex;
-    align-content: start;
+    align-content: end;
 }
