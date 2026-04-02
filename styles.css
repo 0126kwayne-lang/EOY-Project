@@ -165,6 +165,7 @@ align-items: center;
     border: 3px solid greenyellow;
 }
 .pg1buttons{
+    display:flex;
     border-color: green; 
     padding-left: 30px; 
     width: 100vw; 
@@ -176,14 +177,14 @@ align-items: center;
 }
 
 .button2{
-    border: 3px solid;
-    border-color: black;
     display: flex;
-    align-content: start;   
+    align-content: start;
+    border: 3px solid;
+    border-color: black;   
 }
 .button3{
-    border: 3px solid;
-    border-color: gold;
     display: flex;
     align-content: end;
+    border: 3px solid;
+    border-color: gold;
 }
