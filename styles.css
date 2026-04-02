@@ -39,7 +39,7 @@ body{
     position: fixed;
     left: 0;
     top: 0;
-    width: 60px;
+    width: 30px;
     height: 100vh;
     background-color: #1e1e2f;
     color: white;
@@ -112,8 +112,8 @@ align-items: center;
 
 /*Toggle background */
 .toggle-label {
-    width: 50px;
-    height: 25px;
+    width: 25px;
+    height: 15px;
     background: var(--card);
     display: block;
     border-radius: 50px;
@@ -123,8 +123,8 @@ align-items: center;
 } 
 /* Toggle ball */
 .toggle-ball{
-    width: 21px;
-    height: 21px;
+    width: 12px;
+    height: 12px;
     background: var(--text);
     position: absolute;
     top: 2px;
