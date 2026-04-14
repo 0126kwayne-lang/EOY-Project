@@ -172,16 +172,17 @@ align-items: center;
     width: 100vw; 
 }
 .button1{
-    border-color:black;
+   border-color:black;
     border: 3px solid white;
     border-width: auto;
 }
 
 .button2{
-    display: flex;
-    align-content: start;
     border: 3px solid;
-    border-color: black;   
+    border-color: black;
+    display: flex;
+    align-content: start;   
+    
 }
 .button3{
     display: flex;
