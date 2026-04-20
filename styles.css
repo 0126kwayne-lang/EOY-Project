@@ -173,12 +173,15 @@ align-items: center;
 }
 .button1{
   background-color: white;
+  border: 0.5px black;
 }
 
 .button2{
    background-color: white;
+   border: 0.5px black
 }
     
 .button3{
     background-color: white;
+    border: 0.5px black
 }
