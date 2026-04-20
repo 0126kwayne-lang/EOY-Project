@@ -172,12 +172,12 @@ align-items: center;
     width: 100vw; 
 }
 .button1{
-    background-color: 0.5px crimson;
-    border: 0.5px black
+    background-color:crimson;
+    border:black
 }
 
 .button2{
-   background-color: 0.5px palegreen ;
+   background-color:palegreen ;
    border: 0.5px black
 }
     
