@@ -170,6 +170,7 @@ align-items: center;
     border-color: green; 
     padding-left: 30px; 
     width: 100vw; 
+    height: 30px;
 }
 .button1{
     background-color:crimson;
@@ -178,7 +179,7 @@ align-items: center;
 
 .button2{
    background-color:darkgray ;
-   border: height 200px;
+   border: 20px;
 }
     
 .button3{
